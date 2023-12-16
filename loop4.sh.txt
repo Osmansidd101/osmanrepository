@@ -1,0 +1,6 @@
+#!/bin/bash
+
+for i in hamad, john, adam, kevin, jay, lee, mat, eric, shawn, ajay
+do
+   echo "My friends name is $i and they are in canada"
+done
